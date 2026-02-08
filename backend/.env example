@@ -1,0 +1,4 @@
+DB_HOST="Your host name"
+DB_USER= Your username
+DB_PASSWORD= Your PASSWORD
+DB_NAME=Your database name
